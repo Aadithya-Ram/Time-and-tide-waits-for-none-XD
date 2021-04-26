@@ -1,1 +1,2 @@
-# Time-and-tide-waits-for-none-XD
+# p5.play-boilerplate
+Boiler plate for p5.play
